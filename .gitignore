@@ -1,1 +1,4 @@
 lockfile.lck
+OldVersions/
+OldVersions/*
+*.ipj
