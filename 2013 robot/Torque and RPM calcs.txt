@@ -1,0 +1,11 @@
+Torgue(A) given in oz/in divided by sprocket ration(B) (.7) x gear ration x engine efficency x gearbox efficency = final wieght lift
+
+RPM(A) given in oz/in (of radius) multiplied by final axel radius(B) x gearbox ratio x engine efficency x gearbox efficency = final RPM
+
+Torque/RPM A related to the engine and gearbox efficency
+
+Engine efficency (necesssary for calculating gearbox efficency too) is the equation of a graph for the system. Marc is getting me the equations of the graphs so we can sub them in and calculate. 
+
+Gearbox efficency = gearbox speed x load torgue / (motor voltage x motor current x motor efficency) 
+
+The gear ratio should be given. Watch out for whether your gearbox gears down or up. 
